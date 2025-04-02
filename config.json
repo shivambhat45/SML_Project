@@ -1,0 +1,15 @@
+{
+    "layers": {
+        "C": 1,
+        "M": 2,
+        "fc": 3,
+        "relu": 4,
+        "tanh": 5
+    },
+    "embedding_size": 60,
+    "not_same": 0,
+    "same": 1,
+    "end": -1,
+    "output_size": 10,
+    "hidden_size": 120
+}
